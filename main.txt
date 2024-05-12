@@ -1,0 +1,127 @@
+~~META:
+language = ko
+~~
+~~NOCACHE~~
+
+====== 애니민트넷 ======
+<WRAP group>
+<WRAP half column>
+<panel>
+2004년 10월 13일 [[https://naver.com|네이버]] [[https://cafe.naver.com|카페]] 최초 '마법선생 네기마!' [[https://web.archive.org/web/20041229064118/http://cafe.naver.com/magicteachernegima.cafe|팬카페]]로 시작한 [[https://www.animint.net|애니민트넷]]은 현재 만화가 [[ko:profile:ken|아카마츠 켄]] 작가의 모든 작품을 다루는 WIKI로 그 명맥을 이어오고 있습니다. [[https://www.animint.net/note/|애니민트넷 작품노트]]는 모든 작품에 대한 DB를 수집하여 [[ko:ja:world|아카마츠 월드]]를 구축, 다양한 정보의 제공을 목표로 하고 있습니다. 여러분들의 많은 성원과 도움 부탁드립니다.
+</panel>
+<panel>
+애니민트넷은 오픈한지 1년 뒤인 2005년, 주인장이 고등학생 때 아침에 '애플민트 치약'을 보고 '애니민트넷'이라는 이름을 짓게 되었습니다. 중간에 한번 [[https://web.archive.org/web/20080609004254/http://ailove.kr/|http://ailove.kr]]로 갈아탄 적이 있긴 하지만(2008-2009년 중반까지), 애니민트넷에 대한 애정이 정말 큽니다. 사이트명을 바꿀 생각은 없으며, ailove.kr 도메인도 구입하여 여기로 리다이렉트할까 합니다.
+</panel>
+</WRAP>
+
+<WRAP half column>
+~~INTOC~~
+</WRAP>
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+===== MENU =====
+<panel><nav>
+  * [[ko:board:free:01|자유판]]
+  * [[ko:board:comic:01|작품판]]
+  * [[ko:board:wiki:01|위키판]]
+  * [[?do=media|갤러리]]
+</nav></panel>
+</WRAP>
+<WRAP half column>
+===== Project =====
+<panel><nav>
+  * [[ko:ja:world|아카마츠 켄 월드]]
+  * [[ko:diary|아카마츠 켄 일기장]]
+  * [[ko:negima:note:card|네기마 가계약 카드 정리]]
+  * [[ko:negima:note:test|네기마 검정]]
+</nav></panel>
+</WRAP>
+</WRAP>
+
+===== Category =====
+<panel>
+~~TAGCLOUD~~
+</panel>
+
+----
+
+===== 작품목록 =====
+<panel><nav>
+  * [[ko:profile:ken|아카마츠 켄 작가소개]]
+</nav></panel>
+
+==== 연재작 ====
+<WRAP group>
+<WRAP half column>
+^ [[ko:uqholder|UQ HOLDER!]] ^
+| 싸우는 [[ko:uqholder:character:konoe_touta|소년]]! 가지고싶은 것이 있다면!! |
+</WRAP>
+<WRAP half column>
+^ [[ko:negima|마법선생 네기마!]] ^
+| “오늘부터 [[ko:negima:note:mahora_academy|이 학교]]에서 마버… \\ 아니, 영어를 가르치게 될 [[ko:negima:character:negi_springfield|네기 스프링필드]] 입니다. 잘 부탁드립니다~!” |
+</WRAP>
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+^ [[ko:lovehina|러브히나(러브 인 러브)]] ^
+| “알고 있니? \\ 서로 사랑하는 [[ko:lovehina:character:urashima_keitaro|두]] [[ko:lovehina:character:narusegawa_naru|사람]]이 도쿄대에 들어가면 말야, 행복해질 수 있대~!!” |
+</WRAP>
+<WRAP half column>
+^ [[ko:aitoma:manga|아이 러브 서티(AI가 멈추지 않아!)]] ^
+| 귀엽고 상냥한 [[ko:aitoma:character:thirty|서티]]와 같이 지내는 \\ 알콩달콩 러브스토리 START~☆ |
+</WRAP>
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+==== 애니메이션(원안) ====
+^ [[ko:ja:maochan:anime:tva|육상방위대 마오]](육상방위대 마오짱) ^
+| “육상 방위대 [[ko:maochan:character:onigawara_mao|오니가와라 마오]], \\ 일본의 평화는 제가 지킵니다!” |
+</WRAP>
+<WRAP half column>
+==== 애니메이션(기타) ====
+  * 기숙학교의 줄리엣
+    * [[ko:profile:ken#애니메이션|제10화 엔드카드]]
+
+  * [[https://ja.m.wikipedia.org/wiki/%E3%81%8B%E3%81%8F%E3%81%97%E3%81%94%E3%81%A8|카쿠시고토]]
+    * 제3화 소재 협력
+</WRAP>
+</WRAP>
+
+==== 단편작 ====
+<WRAP group>
+<WRAP half column>
+^ [[ko:ja:santa:manga|언제나 My 산타!(언제나 나의 산타!)]] ^
+| “[[ko:santa:character:mai|나]]와 같이 하룻밤을 지내면 행복해질 수 있어!!♡” \\ [[ko:santa:character:mai|미니스커트의 산타]]가 내 방에 왔다!? |
+</WRAP>
+<WRAP half column>
+^ [[ko:ja:kids|한여름의 KIDS 게임]] ^
+| 그리하여 그녀와 나의 기묘한 여름방학이 시작되었다…!! |
+</WRAP>
+</WRAP>
+
+===== 편집 시 유의사항 =====
+<panel>
+  * 문서 보기, 문서 편집은 로그인 없이도 이용할 수 있습니다. 다만 문서 첫 작성은 로그인이 필요합니다.
+
+  * 새 문서 작성 시 반드시 분류를 설정해주세요. ''분류:페이지이름''  형식으로 작성하면 됩니다.
+
+  * 문서 제목 및 검색 노출을 위해 첫 항목을 **(''====== 제목 ======'')**  형식으로 시작해주세요.
+
+  * 오자, 오탈자 혹은 잘못된 정보를 발견하면 **[[ko:thread:wikibd:01|위키게시판]]** 에 글을 남겨주세요.
+
+  * 작품노트를 작성하기 전에 [[:ko:syntax|위키문법]]을 읽어두면 작성하는데 많은 도움을 얻을 수 있습니다.
+
+  * 만약 위키 문법에 자신이 없으면 [[:playground|연습장]]에서 자유롭게 글쓰기 연습을 하면 됩니다.
+
+  * 본 위키의 내용을 일부가 아닌 전문의 '무단 전제'를 금지합니다.
+
+  * 또한 이 곳은 다른 위키백과의 질을 높이려는 곳이 아닙니다. 백과사전을 만들 용도로 퍼가지 말아주세요. 작성자의 노고를 알아 주셨으면 합니다. <del>특히 나무위키</del>
+
+  * 단, 일부 내용을 담아갈 경우에는 출처 표시를 꼭 해주시기 바랍니다.
+</panel>
+
+{{tag>메인 작품목록}}
