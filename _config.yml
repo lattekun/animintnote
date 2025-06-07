@@ -1,0 +1,5 @@
+# _config.yml
+title: "ANIMINT.NET Mirror"
+url: "https://lattekun.github.io/animintnote"
+plugins:
+  - jekyll-sitemap
